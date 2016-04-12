@@ -1,1 +1,3 @@
-This is the readme file for our project. Let's get started soon.
+This is the readme file for our project. 
+
+Let's get started soon.
